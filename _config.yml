@@ -1,6 +1,6 @@
 name: ballet
 favicon: null
-layout_spectrum: 0.4460830888710916
+layout_spectrum: 0.57545
 typography_spectrum: 0.5680777241941541
 title: 'Ballet | Information, tips and pictures'
 cta:
@@ -16,8 +16,13 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0.05145634850487113
+  brandColors:
+    - '#ffffff'
+    - '#d9c6b5'
+    - '#d8b691'
+    - '#b59475'
+    - '#c0a68f'
+  brandStrength: 0.5
   lightness: 0.23714023479260504
   saturation: 0.7976430761627853
   rhythmicContrast: 0.5783291573170573
