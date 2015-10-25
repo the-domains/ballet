@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Ballet | Information, tips and pictures]]></title>
+        <description><![CDATA[Ballet | Information, tips and pictures]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 25 Oct 2015 15:29:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hello @ The Grid]]></title>
+            <description><![CDATA[<article><h1>Hello @ The Grid</h1><p>Gonna post images, information related to Ballet here soon. </p></article>]]></description>
+            <link>undefinedhello-the-grid/index.html</link>
+            <guid isPermaLink="false">f9171a67-b0ac-46df-b2cd-e3e4b0dcb6ca</guid>
+            <pubDate>Sun, 25 Oct 2015 15:29:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
